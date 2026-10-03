@@ -1,0 +1,18 @@
+indicator,value,ci_low,ci_high
+T+1 AUC,0.905,0.898,0.913
+T+2 AUC,0.895,0.887,0.902
+T+3 AUC,0.885,0.877,0.894
+T+6 AUC,0.86,0.85,0.869
+T+12 AUC,0.817,0.805,0.828
+T+6 POD 0.80 POD,0.8,0.765,0.83
+T+6 POD 0.80 false alarms per station-day,3.57,3.19,3.82
+T+6 POD 0.80 first-trigger lead (min),246,235,252
+T+6 POD 0.70 POD,0.7,0.66,0.736
+T+6 POD 0.70 false alarms per station-day,2.14,1.88,2.33
+T+6 POD 0.70 first-trigger lead (min),229,215,241
+T+3 POD 0.80 POD,0.8,0.759,0.834
+T+3 POD 0.80 false alarms per station-day,3.96,3.56,4.29
+T+3 POD 0.80 first-trigger lead (min),151,147,152
+T+6 persistence k=2 POD,0.55,0.513,0.584
+T+6 persistence k=2 false alarms per station-day,1.47,1.28,1.61
+T+6 persistence k=2 first-trigger lead (min),208,195,216

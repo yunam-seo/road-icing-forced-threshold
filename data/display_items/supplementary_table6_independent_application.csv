@@ -1,0 +1,3 @@
+lead,station_set,AUC,positive_rate,POD,false_alarms_per_station_day,first_trigger_lead_median_min
+T+3 h,independent 127 stations (external application),0.849,0.0138,0.8,6.59,153
+T+6 h,independent 127 stations (external application),0.82,0.0243,0.8,6.32,266

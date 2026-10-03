@@ -1,0 +1,13 @@
+control_design,indicator,code,onset_median,control_median,AUC,frac_positive_tau_onset,n_onset,n_control
+random,rolling variance,var,-0.103,-0.077,0.501,0.461,2427,4840
+random,lag-1 autocorrelation,ar1,0.026,-0.051,0.526,0.509,2427,4840
+random,skewness,skew,-0.128,0,0.431,0.401,2427,4840
+random,kurtosis,kurt,0.026,-0.026,0.532,0.508,2427,4840
+random,spectral reddening,red,0.051,-0.077,0.538,0.519,2427,4840
+random,autocorrelation decay time,act,-0.092,-0.051,0.481,0.443,2427,4829
+hour_matched,rolling variance,var,-0.103,-0.256,0.548,0.461,2427,4829
+hour_matched,lag-1 autocorrelation,ar1,0.026,-0.154,0.56,0.509,2427,4829
+hour_matched,skewness,skew,-0.128,-0.051,0.455,0.401,2427,4829
+hour_matched,kurtosis,kurt,0.026,-0.026,0.534,0.508,2427,4829
+hour_matched,spectral reddening,red,0.051,-0.154,0.567,0.519,2427,4829
+hour_matched,autocorrelation decay time,act,-0.092,-0.105,0.51,0.443,2427,4816

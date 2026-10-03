@@ -1,0 +1,6 @@
+stage,description,AUC
+naive_ts,surface-temperature threshold only,0.736
+dose_only,cumulative antecedent conditions only,0.6934
+current,current Ts and RH,0.8387
+plus_dynamics,+ recent 1-h surface-temperature change,0.8562
+full,full (current + change + cumulative),0.8854

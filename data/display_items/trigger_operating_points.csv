@@ -1,0 +1,12 @@
+group,configuration,lead_h,persistence_k,target_pod,achieved_pod,false_alarms_per_station_day,first_trigger_lead_median_min,first_trigger_lead_q1_min,first_trigger_lead_q3_min,n_onsets,probability_threshold
+Table 4,T+6 POD 0.80,6,1,0.8,0.8,3.57,246,124,336,2342,0.0451195644022622
+Table 4,T+6 POD 0.70,6,1,0.7,0.7,2.14,229,108,332,2342,0.0612025663996328
+Table 4,T+3 POD 0.80,3,1,0.8,0.8,3.96,151,85,165,2342,0.0248861846719289
+Table 4,T+6 persistence k=2 POD 0.55,6,2,0.55,0.55,1.47,208,89,319,2342,0.062768147118659
+Fig. 6b (with and without surrounding fields),T+6 RWIS,6,1,0.8,0.8,3.57,246,124,336,2342,0.0451195644022622
+Fig. 6b (with and without surrounding fields),T+6 RWIS + surrounding fields,6,1,0.8,0.8,1.17,203,99,305,2342,0.0922325824762376
+Fig. 6b (with and without surrounding fields),T+3 RWIS,3,1,0.8,0.8,3.96,151,85,165,2342,0.0248861846719289
+Fig. 6b (with and without surrounding fields),T+3 RWIS + surrounding fields,3,1,0.8,0.8,1.5,128,69,161,2342,0.0488833138579989
+Fig. 5 (information ladder),Model 0 temperature threshold,3,1,0.8,0.803,15.69,157,113,168,2342,-1.20000000003874
+Fig. 5 (information ladder),Model 1 current state,3,1,0.8,0.8,6.72,147,73,164,2342,0.0203717649305104
+Fig. 5 (information ladder),Model 2 current + recent + cumulative,3,1,0.8,0.8,3.96,151,85,165,2342,0.0248861846719289

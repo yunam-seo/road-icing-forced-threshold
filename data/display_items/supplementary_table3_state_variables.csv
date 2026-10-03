@@ -1,0 +1,11 @@
+state_variable,indicator,AUC,frac_positive_tau_onset,n_valid_windows_onset,n_valid_windows_control
+surface temperature Ts (baseline),rolling variance,0.488,0.461,2427,4837
+surface temperature Ts (baseline),lag-1 autocorrelation,0.513,0.509,2427,4837
+deposition margin M_dep = Ts − Tf,rolling variance,0.502,0.466,2341,4734
+deposition margin M_dep = Ts − Tf,lag-1 autocorrelation,0.567,0.554,2341,4734
+air temperature Ta,rolling variance,0.471,0.46,2341,4734
+air temperature Ta,lag-1 autocorrelation,0.549,0.564,2341,4734
+friction coefficient FRC,rolling variance,0.683,0.668,2425,4829
+friction coefficient FRC,lag-1 autocorrelation,0.308,0.315,2425,4829
+water-film thickness WFT,rolling variance,0.757,0.854,595,1465
+water-film thickness WFT,lag-1 autocorrelation,0.231,0.183,595,1465

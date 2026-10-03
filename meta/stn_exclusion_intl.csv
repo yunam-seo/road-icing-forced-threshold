@@ -1,0 +1,4 @@
+STN_ID,route,distance_to_route_m,reason,detail
+12213,Seohaean Expressway,9866,off_road,9.87 km from the nearest link point of the recorded route; the station is not on that expressway
+13208,Gyeongbu Expressway,2884,off_road,2.88 km from the nearest link point of the recorded route; the station is not on that expressway
+53103,Jungang Expressway,652,off_road_borderline,"652 m, slightly beyond the 500 m threshold (borderline); possibly a rest-area offset from the mainline, excluded for consistency with the quality-control station list"

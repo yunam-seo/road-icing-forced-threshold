@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article it accompanies."
+title: "Early warning of road icing from current, antecedent and surrounding meteorological conditions - analysis code"
+type: software
+license: MIT
+authors:
+  - family-names: Yi
+    given-names: Chaeyeon
+    affiliation: "Research Center for Atmospheric Environment, Hankuk University of Foreign Studies, Yongin 17035, Republic of Korea; NAVI Hyper-Tropicalization Research Institute, Jeju National University, Jeju 63243, Republic of Korea"
+    orcid: "https://orcid.org/0000-0003-2802-2431"
+  - family-names: Seo
+    given-names: Yun Am
+    affiliation: "Department of Data Science, Jeju National University, Jeju 63243, Republic of Korea; NAVI Hyper-Tropicalization Research Institute, Jeju National University, Jeju 63243, Republic of Korea"
+    orcid: "https://orcid.org/0000-0001-9283-4376"
+keywords:
+  - road icing
+  - critical slowing down
+  - early warning signals
+  - cumulative antecedent conditions
+  - road weather information system
+  - forced threshold crossing
+  - false alarms
